@@ -1,0 +1,19 @@
+{
+  "name": "Raziq Siddique",
+  "displayStatsPublic": true,
+  "type": "personal",
+  "bio": "Travel enthusiast, Java Developer, DevOps enthusiast, Cloud Enthusiast",
+  "avatar": "https://github.com/razlq.png",
+  "links": [
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/RaziqSid",
+      "icon": "FaTwitter"
+    },
+    {
+      "name": "Leetcode",
+      "url": "https://leetcode.com/raz-sid/",
+      "icon": "FaLeetcode"
+    },  
+  ]
+}
